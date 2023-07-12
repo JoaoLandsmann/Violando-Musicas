@@ -1,6 +1,6 @@
 # Violando-Musicas
 
-Website para venda de cursos de violão e guitarra, desenvolvido como Trabalho de Conclusão de Curso na Rede Calábria. 
+Website para venda de cursos de violão e guitarra, desenvolvido como Trabalho de Conclusão de Curso (TCC) na Rede Calábria. 
 
 # informações Relevantes
 
