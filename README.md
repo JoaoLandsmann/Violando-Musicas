@@ -1,2 +1,9 @@
 # Violando-Musicas
-Website desenvolvido como TCC do curso de Programação Web da Rede Calábria. Utilizadas as linguagens: PHP7, MySQL, HTML5, CSS3, Boostratp, JavaScript e Jquery.
+
+Website para venda de cursos de violão e guitarra.
+
+# informações Relevantes
+
+- Projeto meramente visual, mas com potencial comercial.
+- Estrutura de Banco de Dados em SQL 100% funcional para realização de cadastro de possíveis clientes.
+- Website hospedado em um servidor gratuito | https://violando-musicas.000webhostapp.com/index.php
