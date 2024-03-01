@@ -9,5 +9,4 @@ Obs.: A pasta "1.Database" contém os arquivos SQL do banco de dados utilizado n
 - Projeto meramente visual, mas com potencial comercial.
 - Site inteiramente responsivo.
 - Estrutura de Banco de Dados em SQL 100% funcional para realização de cadastro de possíveis clientes.
-- Website hospedado em um servidor gratuito | https://violando-musicas.000webhostapp.com/index.php
-
+- Website hospedado em um servidor gratuito | https://lknlknoijoknklnip.000webhostapp.com/index.php
